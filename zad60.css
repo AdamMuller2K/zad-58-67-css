@@ -1,0 +1,21 @@
+div
+{
+	width:622px;
+	background-color: lightgreen;
+
+}
+#blok1_muller:hover
+{
+    background-color: red;
+    font-size:19.5mm
+}
+#blok2_muller:hover
+{
+    background-color: gold;
+    font-size:19.5mm
+}
+#blok3_muller:hover
+{
+    background-color: yellow;
+    font-size:19.5mm
+}
